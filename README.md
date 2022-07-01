@@ -1,6 +1,6 @@
 # images-processing
 
-Image processing app built in Widows Forms using only single pixel operations.
+Image processing app built in Windows Forms using only single pixel operations.
 
 ## Functionalities
 
