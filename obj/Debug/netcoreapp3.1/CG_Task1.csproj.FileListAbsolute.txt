@@ -1,0 +1,17 @@
+C:\Users\olegrybak\source\repos\CG_Task1\CG_Task1\bin\Debug\netcoreapp3.1\CG_Task1.exe
+C:\Users\olegrybak\source\repos\CG_Task1\CG_Task1\bin\Debug\netcoreapp3.1\CG_Task1.deps.json
+C:\Users\olegrybak\source\repos\CG_Task1\CG_Task1\bin\Debug\netcoreapp3.1\CG_Task1.runtimeconfig.json
+C:\Users\olegrybak\source\repos\CG_Task1\CG_Task1\bin\Debug\netcoreapp3.1\CG_Task1.runtimeconfig.dev.json
+C:\Users\olegrybak\source\repos\CG_Task1\CG_Task1\bin\Debug\netcoreapp3.1\CG_Task1.dll
+C:\Users\olegrybak\source\repos\CG_Task1\CG_Task1\bin\Debug\netcoreapp3.1\CG_Task1.pdb
+C:\Users\olegrybak\source\repos\CG_Task1\CG_Task1\obj\Debug\netcoreapp3.1\CG_Task1.csprojAssemblyReference.cache
+C:\Users\olegrybak\source\repos\CG_Task1\CG_Task1\obj\Debug\netcoreapp3.1\CG_Task1.csproj.GenerateResource.cache
+C:\Users\olegrybak\source\repos\CG_Task1\CG_Task1\obj\Debug\netcoreapp3.1\CG_Task1.AssemblyInfoInputs.cache
+C:\Users\olegrybak\source\repos\CG_Task1\CG_Task1\obj\Debug\netcoreapp3.1\CG_Task1.AssemblyInfo.cs
+C:\Users\olegrybak\source\repos\CG_Task1\CG_Task1\obj\Debug\netcoreapp3.1\CG_Task1.csproj.CoreCompileInputs.cache
+C:\Users\olegrybak\source\repos\CG_Task1\CG_Task1\obj\Debug\netcoreapp3.1\CG_Task1.dll
+C:\Users\olegrybak\source\repos\CG_Task1\CG_Task1\obj\Debug\netcoreapp3.1\CG_Task1.pdb
+C:\Users\olegrybak\source\repos\CG_Task1\CG_Task1\obj\Debug\netcoreapp3.1\CG_Task1.genruntimeconfig.cache
+C:\Users\olegrybak\source\repos\CG_Task1\CG_Task1\obj\Debug\netcoreapp3.1\CG_Task1.Properties.Resources.resources
+C:\Users\olegrybak\source\repos\CG_Task1\CG_Task1\obj\Debug\netcoreapp3.1\CG_Task1.Form1.resources
+C:\Users\olegrybak\source\repos\CG_Task1\CG_Task1\obj\Debug\netcoreapp3.1\CG_Task1.Form2.resources
